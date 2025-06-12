@@ -81,8 +81,6 @@ DB_PORT=5432
 
 - 💾 Persistência de dados com PostgreSQL
 - 🎨 Interface colorida no terminal
-- ⚡ Tratamento de erros robusto
-- 🔒 Validação de dados
 - 🛑 Encerramento seguro do programa
 
 ## 🤝 Contribuindo
@@ -94,4 +92,4 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Desenvolvido com ❤️ por Br3noAraujo
+Desenvolvido por Br3noAraujo
