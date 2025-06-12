@@ -35,7 +35,7 @@ Este é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em Python co
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/Br3noAraujo/prototype_crud_postgres
 cd prototype_crud_postgres
 ```
 
